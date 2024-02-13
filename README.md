@@ -5,7 +5,7 @@
 create the project
 
 ```
-git clone
+git clone https://github.com/kimseungyeon001/nextjs-sample-240213.git
 ```
 
 access the project directory
